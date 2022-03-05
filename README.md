@@ -56,6 +56,7 @@ Upon launching the loan qualifier application you will be greeted with the follo
 ## Contributors
 
 Jung Kim aka CHAOS
+
 github.com/chaos4us
 
 ---
